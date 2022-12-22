@@ -19,6 +19,7 @@
 %   |   _. |_
 %   |_ (_| |_) o
 
+
 % IEEE TCAD
 % UNDER REVIEW: "Agile Simulation of Stochastic Computing Image Processing with Contingency Tables"
 % PostDoc. Sercan AYGUN, Asst. Prof. M. Hassan NAJAFI, Asst. Prof. Mohsen IMANI, Prof. Ece Olcay GUNES
