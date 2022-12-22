@@ -10,9 +10,9 @@ for further info: sercan.aygun@louisiana.edu
 <br />
 There are four folders in this project:
   
-1. Image processing simulation <br />
+1. Cascaded circuit simulation (Figure 5 (b) in the manuscript)
 
-2. Cascaded circuit simulation (Figure 5 (b) in the manuscript)
+2. Image processing simulation <br />
   
 3. NAND gate-based XOR model for the monitoring of reconvergent paths (*with* and *without* reconvergence) <br />
   
@@ -21,6 +21,5 @@ There are four folders in this project:
 
 <br />
   
-Current paper's status (23rd December 2022): Under review, minor revision. Upon acceptance, this line will be updated, and the citation information will be given below.
-  
+Paper's current status (23rd December 2022): Under review, minor revision. Upon acceptance, this line will be updated, and the citation information will be given below.
 To reference this project, please use the following publication:
