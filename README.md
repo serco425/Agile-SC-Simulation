@@ -1,6 +1,6 @@
 # Agile-SC-Simulation
 
-This repository is for the manuscript under review in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. <br />
+This repository is for our study accepted in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. <br />
 (*Agile Simulation of Stochastic Computing Image Processing with Contingency Tables*)
 
 Contributors: PostDoc. Sercan AYGUN, Asst. Prof. M. Hassan NAJAFI, Asst. Prof. Mohsen IMANI, Prof. Ece Olcay GUNES <br />
@@ -21,5 +21,15 @@ There are four folders in this project:
 
 <br />
   
-Paper's current status (23rd December 2022): Under review, minor revision. Upon acceptance, this line will be updated, and the citation information will be given below.
-To reference this project, please use the following publication:
+To give a cite for this project:
+
+@article{agile_SC,
+ author = {Aygun, Sercan and Najafi, M. Hassan, and Imani, Mohsen and Gunes, Ece Olcay},
+ title = {Agile Simulation of Stochastic Computing Image Processing with Contingency Tables},
+ journal = {IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+ volume = {XX},
+ number = {XX},
+ year = {20XX},
+ pages = {XX--XX},
+ doi = {XXXXXXXXXXXXXX}
+}
