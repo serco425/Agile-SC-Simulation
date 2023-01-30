@@ -23,13 +23,13 @@ There are four folders in this project:
   
 To give a cite for this project:
 
-@article{agile_SC,
- author = {Aygun, Sercan and Najafi, M. Hassan, and Imani, Mohsen and Gunes, Ece Olcay},
- title = {Agile Simulation of Stochastic Computing Image Processing with Contingency Tables},
- journal = {IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
- volume = {XX},
- number = {XX},
- year = {20XX},
- pages = {XX--XX},
- doi = {XXXXXXXXXXXXXX}
+@article{agile_SC, <br />
+ author = {Aygun, Sercan and Najafi, M. Hassan, and Imani, Mohsen and Gunes, Ece Olcay}, <br />
+ title = {Agile Simulation of Stochastic Computing Image Processing with Contingency Tables}, <br />
+ journal = {IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}, <br />
+ volume = {XX}, <br />
+ number = {XX}, <br />
+ year = {20XX}, <br />
+ pages = {XX--XX}, <br />
+ doi = {XXXXXXXXXXXXXX} <br />
 }
