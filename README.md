@@ -31,5 +31,5 @@ To give a cite for this project:
  number = {XX}, <br />
  year = {20XX}, <br />
  pages = {XX--XX}, <br />
- doi = {XXXXXXXXXXXXXX} <br />
+ doi = {10.1109/TCAD.2023.3243136} <br />
 }
